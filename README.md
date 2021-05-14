@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhaveshgarg2000
-- 👀 I’m interested in ...
+- 👀 I’m interested in Backhand web development.
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhaveshgarg2005@gmail.com
