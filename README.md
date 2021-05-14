@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @bhaveshgarg2000
-- 👀 I’m interested in Backhand web development.
+- 👀 I’m interested in Backend web development.
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
+- Ask me about C, JavaScript
+- smile Pronouns: He/His
 - 📫 How to reach me bhaveshgarg2005@gmail.com
 
 <!---
