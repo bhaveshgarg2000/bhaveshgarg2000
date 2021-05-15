@@ -29,7 +29,8 @@
 
 ### Graph
 
-  [![Bhavesh Garg's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhaveshgarg2000&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=bhaveshgarg2000&theme=dracula)
+  [![Bhavesh Garg's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhaveshgarg2000&theme=dracula)]
+  (https://activity-graph.herokuapp.com/graph?username=bhaveshgarg2000&theme=dracula)
 
 
 
