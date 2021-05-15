@@ -12,8 +12,8 @@
 - 👀 I’m interested in Backend web development.
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
-- Ask me about C, JavaScript
-- smile Pronouns: He/His
+- 💬 Ask me about C, JavaScript
+- 😄 Pronouns: He/His
 - 📫 How to reach me bhaveshgarg2005@gmail.com
 
 <!---
