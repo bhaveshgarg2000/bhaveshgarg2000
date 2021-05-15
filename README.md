@@ -22,6 +22,10 @@
  ### Github Stats
 
   [![Bhavesh Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshgarg2000&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/bhaveshgarg2000?tab=repositories)
+  
+  ### Top Languages
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshgarg2000&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshgarg2000&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
 
 ### Graph
 
