@@ -1,4 +1,7 @@
+<div align=center>
 ## Hi there, I'm Bhavesh Garg 👋
+</div>
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bhaveshgarg2000&color=blue&logo=flat)
 <br/>
@@ -18,17 +21,23 @@
 - 📫 How to reach me bhaveshgarg2005@gmail.com
 
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/MFPXPM1nFImgYf6s25/giphy.gif" width="100" height="100"><img src="http://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif" width="100" height="100"></p>
+
+
+
+
+<div align="center">
+
 
  ### Github Stats
+<div align = center>
 
-  [![Bhavesh Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshgarg2000&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/bhaveshgarg2000?tab=repositories)
+ [![Bhavesh Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshgarg2000&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/bhaveshgarg2000?tab=repositories)
   
-### Graph
-
-  [![Bhavesh Garg's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhaveshgarg2000&theme=dracula)]
-  (https://activity-graph.herokuapp.com/graph?username=bhaveshgarg2000&theme=dracula)
-
-
+ </div>
+ 
 
 <!---
 bhaveshgarg2000/bhaveshgarg2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
