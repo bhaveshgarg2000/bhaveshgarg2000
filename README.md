@@ -23,7 +23,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/MFPXPM1nFImgYf6s25/giphy.gif" width="100" height="100"><img src="http://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif" width="100" height="100"></p>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/MFPXPM1nFImgYf6s25/giphy.gif" width="100" height="100"><img src="http://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif" width="100" height="100"><img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" width="100" height="100"><img src="http://www.3dbiotechnologiessolutions.com/wp-content/uploads/2016/03/js-logo.png" width="100" height="100"></p>
 
 
 
@@ -38,7 +38,9 @@
   
  </div>
  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaveshgarg2000&theme=cobalt&hide_border=true&border=DD2727)](https://git.io/streak-stats)
 
+ 
 <!---
 bhaveshgarg2000/bhaveshgarg2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
