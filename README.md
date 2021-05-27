@@ -40,6 +40,9 @@
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaveshgarg2000&theme=cobalt&hide_border=true&border=DD2727)](https://git.io/streak-stats)
 
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshgarg2000&show_icons=true&theme=radical">
+  </div>
  
 <!---
 bhaveshgarg2000/bhaveshgarg2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
