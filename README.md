@@ -39,7 +39,7 @@
   
  </div>
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaveshgarg2000&theme=cobalt&hide_border=true&border=DD2727)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaveshgarg2000&theme=neon-palenight&hide_border=true)](https://git.io/streak-stats)
 
  <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshgarg2000&show_icons=true&theme=radical">
