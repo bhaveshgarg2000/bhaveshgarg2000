@@ -23,7 +23,7 @@
 
 
 ## 🧰 Languages and Tools:
-<p align="center">
+<p>
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100">
 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100">
 <img src="http://www.3dbiotechnologiessolutions.com/wp-content/uploads/2016/03/js-logo.png" width="100" height="100">
