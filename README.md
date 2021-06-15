@@ -48,8 +48,9 @@
   
  </div>
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaveshgarg2000&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaveshgarg2000&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+ 
+ 
  <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshgarg2000&show_icons=true&theme=radical">
   </div>
