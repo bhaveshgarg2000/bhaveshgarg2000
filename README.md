@@ -56,6 +56,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshgarg2000&show_icons=true&theme=radical">
   </div>
  
+ ### Graph
+
+  ![Bhavesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhaveshgarg2000&theme=dracula)
+ 
 <!---
 bhaveshgarg2000/bhaveshgarg2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
