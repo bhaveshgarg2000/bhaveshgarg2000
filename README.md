@@ -20,6 +20,7 @@
 - 💬 Ask me about C, JavaScript
 - 😄 Pronouns: He/His
 - 📫 How to reach me bhaveshgarg2005@gmail.com
+- <img src="https://img.icons8.com/emoji/22/000000/high-voltage.png"/> Google Is A Multi-Billion Dollar Spelling Mistake.
 
 
 ## 🧰 Languages and Tools:
