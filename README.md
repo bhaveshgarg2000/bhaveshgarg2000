@@ -1,13 +1,13 @@
 
 ## Hi there, I'm Bhavesh Krishan Garg 👋
 
-
+<div align = "center">
+ 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bhaveshgarg2000&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/bhaveshgarg2000-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bhavesh-garg-48a418131/)](https://www.linkedin.com/in/bhavesh-garg-48a418131/)
-![Instagram](https://img.shields.io/badge/bhaveshgarg2000-black?style=flat&logo=Instagram&logoColor=pink&link=https://www.instagram.com/bgarg2000/)
-![Twitter](https://img.shields.io/badge/bhaveshgarg2000-black?style=flat&logo=Twitter&logoColor=pink&link=https://twitter.com/Bhaveshkrishan1/)
-![Facebook](https://img.shields.io/badge/bhaveshgarg2000-black?style=flat&logo=Facebook&logoColor=pink&link=https://www.facebook.com/bhavesh.garg.1004/)
+[![Linkedin](https://img.shields.io/badge/bhaveshgarg2000-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bhavesh-krishan-garg-48a418131/)](https://www.linkedin.com/in/bhavesh-krishan-garg-48a418131/)
+[![Instagram](https://img.shields.io/badge/bhaveshgarg2000-black?style=flat&logo=Instagram&logoColor=pink&link=https://www.instagram.com/bgarg2000/)](https://www.instagram.com/bgarg2000/)
 
+</div>
 
 
 
