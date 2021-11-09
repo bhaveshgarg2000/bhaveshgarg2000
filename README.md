@@ -37,6 +37,9 @@
  <img src="https://img.icons8.com/nolan/100/php.png"width="100" height="100">
  <img src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo--v2.png"/>
  <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
+ <img src="https://img.icons8.com/color/100/000000/nodejs.png"/>
+ <img src="https://img.icons8.com/color/100/000000/mysql-logo.png"/>
+ <img src="https://img.icons8.com/color/100/000000/typescript.png"/>
 </p>
 
 
