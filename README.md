@@ -40,6 +40,7 @@
  <img src="https://img.icons8.com/color/100/000000/nodejs.png"/>
  <img src="https://img.icons8.com/color/100/000000/mysql-logo.png"/>
  <img src="https://img.icons8.com/color/100/000000/typescript.png"/>
+ <img src="https://img.icons8.com/fluency/100/000000/python.png"/>
 </p>
 
 
