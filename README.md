@@ -15,9 +15,9 @@
 
 - 👋 Hi, I’m @bhaveshgarg2000
 - 👀 I’m interested in Backend web development.
-- 🌱 I’m currently learning PHP 
-- 💞️ I’m looking to collaborate on JS & C
-- 💬 Ask me about C, JavaScript
+- 🌱 I’m currently learning MongoDB 
+- 💞️ I’m looking to collaborate on JS Projects
+- 💬 Ask me about C++, JavaScript
 - 😄 Pronouns: He/His
 - 📫 How to reach me bhaveshgarg2005@gmail.com
 - <img src="https://img.icons8.com/emoji/22/000000/high-voltage.png"/> Fun Fact : Google Is A Multi-Billion Dollar Spelling Mistake.
