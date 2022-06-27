@@ -1,5 +1,5 @@
 <div align="center">
-## Hola I'm Bhavesh Krishan Garg 👋
+Hola I'm Bhavesh Krishan Garg 👋
 </div>
 <div align = "center">
  
