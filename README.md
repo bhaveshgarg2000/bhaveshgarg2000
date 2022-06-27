@@ -1,6 +1,6 @@
-
-## Hi there, I'm Bhavesh Krishan Garg 👋
-
+<div align="center">
+## Hola I'm Bhavesh Krishan Garg 👋
+</div>
 <div align = "center">
  
 ![Visitor Count](https://komarev.com/ghpvc/?username=bhaveshgarg2000&color=blue&logo=flat)
@@ -9,7 +9,9 @@
 
 </div>
 
-
+<div>
+ 
+</div>
 
 
 
@@ -34,13 +36,12 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" width="100" height="100">
 <img src="https://img.icons8.com/color/500/000000/sass.png" width="100" height="100">
 <img src="https://img.icons8.com/ios/50/000000/github--v2.png" width="100" height="100">
- <img src="https://img.icons8.com/nolan/100/php.png"width="100" height="100">
- <img src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo--v2.png"/>
- <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
- <img src="https://img.icons8.com/color/100/000000/nodejs.png"/>
- <img src="https://img.icons8.com/color/100/000000/mysql-logo.png"/>
- <img src="https://img.icons8.com/color/100/000000/typescript.png"/>
- <img src="https://img.icons8.com/fluency/100/000000/python.png"/>
+<img src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo--v2.png"/>
+<img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/100/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/100/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/fluency/100/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </p>
 
 
