@@ -1,6 +1,6 @@
-<div align="center">
-Hola I'm Bhavesh Krishan Garg 👋
-</div>
+
+## Hola I'm Bhavesh Krishan Garg 👋
+/div>
 <div align = "center">
  
 ![Visitor Count](https://komarev.com/ghpvc/?username=bhaveshgarg2000&color=blue&logo=flat)
