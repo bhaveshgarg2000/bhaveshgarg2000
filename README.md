@@ -6,6 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/bhaveshgarg2000-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bhavesh-krishan-garg-48a418131/)](https://www.linkedin.com/in/bhavesh-krishan-garg-48a418131/)
 [![Instagram](https://img.shields.io/badge/bhaveshgarg2000-black?style=flat&logo=Instagram&logoColor=pink&link=https://www.instagram.com/bgarg2000/)](https://www.instagram.com/bgarg2000/)
 
+
+ 
 </div>
 
 <div>
@@ -65,6 +67,12 @@
  ### Graph
 
   ![Bhavesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhaveshgarg2000&theme=dracula)
+ 
+ 
+ ### LeetCode Stats
+ 
+ ![Leetcode](https://leetcard.jacoblin.cool/bhaveshgarg2000?theme=wtf&font=Hind%20Guntur&ext=heatmap)
+ 
  
 <!---
 bhaveshgarg2000/bhaveshgarg2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
