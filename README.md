@@ -74,6 +74,12 @@
  ![Leetcode](https://leetcard.jacoblin.cool/bhaveshgarg2000?theme=wtf&font=Hind%20Guntur&ext=heatmap)
  
  
+ ### HoloPin Badges
+
+Below is my board 🦖
+
+[![An image of @bhaveshgarg2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaveshgarg2005)](https://holopin.io/@bhaveshgarg2005)
+ 
 <!---
 bhaveshgarg2000/bhaveshgarg2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
